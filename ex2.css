@@ -1,0 +1,19 @@
+ad{display: block;
+padding-bottom: 25px;
+border:  5px solid black;
+padding:  100px;
+border-radius : 50px;
+background-color: tomato;
+
+
+}
+make,model,description,seller{
+    color: teal;
+    font-weight:  bolder;
+    font-family:  helvetica;
+
+}
+year, color, price, city, state{
+
+    color:  white;
+}
